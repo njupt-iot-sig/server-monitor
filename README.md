@@ -1,5 +1,5 @@
 # server-monitor
-服务器监控器
+server-monitor 是一个 Python 编写 GPRC 框架的的服务器监控器
 
 - 阿里云 DATAV NUPT 服务器监控仪表盘
 
